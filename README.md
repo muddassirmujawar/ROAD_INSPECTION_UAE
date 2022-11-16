@@ -4,7 +4,10 @@ I had contributed to this project by data collection process and Building the mo
 
 
 
-![alt text]()
+![alt text](https://github.com/muddassirmujawar/ROAD_INSPECTION_UAE/blob/main/gray.png)
+![alt text](https://github.com/muddassirmujawar/ROAD_INSPECTION_UAE/blob/main/org.png)
+![alt text](https://github.com/muddassirmujawar/ROAD_INSPECTION_UAE/blob/main/thresh.png)
+
 
 The CSV file is based on these factors (arrcontrrast,arrcorrelation,arrasms,arrhomo)
 train_csv is the file for training and testing purpose 
